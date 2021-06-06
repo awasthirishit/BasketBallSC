@@ -1,4 +1,4 @@
-# BasketBallSC
+# BasketBallSC (Basket Ball Score Counter)
  This is a sample app which i built just to implement some of my learnings in Android while the side motive is to become comfortable with Java Syntax.
 # Learnings (How to?) 
 - Work with viewgroups
